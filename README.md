@@ -78,22 +78,22 @@ This dataset has 3 files as explained below:
 **Successful applicant will be Repayer:**
 
 
-AGE : - Loan applicants above the age of 60 has a lower tendency to default.
-NAME_INCOME_TYPE :- Student and Businessmen have no defaults.
-AMT_INCOME_TOTAL :- Applicants with incomes exceeding 10 Millions experience a lower likelihood of default.
-NAME_HOUSING_TYPE :- Applicant leaving in there own house, or parents , or rental apartment are lower likelihood of default
-CNT_CHILDREN:- People with zero to two children tend to repay the loans.
+ - AGE : - Loan applicants above the age of 60 has a lower tendency to default.
+ - NAME_INCOME_TYPE :- Student and Businessmen have no defaults.
+ - AMT_INCOME_TOTAL :- Applicants with incomes exceeding 10 Millions experience a lower likelihood of default.
+ - NAME_HOUSING_TYPE :- Applicant leaving in there own house, or parents , or rental apartment are lower likelihood of default
+ - CNT_CHILDREN:- People with zero to two children tend to repay the loans.
 
 
 **Applicant will be Defaulter:**
 
 
-NAME_EDUCATION_TYPE: People with Lower Secondary & Secondary education has higher defaulter
-CNT_CHILDREN: Client who have children equal to or more than 9 default 100% and hence their applications are to be rejected.
-CODE_GENDER: Men are at relatively higher default rate
-NAME_FAMILY_STATUS : People who have civil marriage or who are single default a lot.
-OCCUPATION_TYPE: Avoid Low-skill Laborers, Drivers and Waiters staff, Security staff, Laborers and Cooking staff has the higher default rate .
-DAYS_BIRTH: Avoid young people who are in age group of 20-30 as they have higher probability of defaulting
-AMT_GOODS_PRICE: When the credit amount goes beyond 3M, there is an increase in defaulters.
+ - NAME_EDUCATION_TYPE: People with Lower Secondary & Secondary education has higher defaulter
+ - CNT_CHILDREN: Client who have children equal to or more than 9 default 100% and hence their applications are to be rejected.
+ - CODE_GENDER: Men are at relatively higher default rate
+ - NAME_FAMILY_STATUS : People who have civil marriage or who are single default a lot.
+ - OCCUPATION_TYPE: Avoid Low-skill Laborers, Drivers and Waiters staff, Security staff, Laborers and Cooking staff has the higher default rate .
+ - DAYS_BIRTH: Avoid young people who are in age group of 20-30 as they have higher probability of defaulting
+ - AMT_GOODS_PRICE: When the credit amount goes beyond 3M, there is an increase in defaulters.
 
 
